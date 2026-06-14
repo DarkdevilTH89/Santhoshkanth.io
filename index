@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Santhoshkanth Kamaraj | Academic Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://kit.fontawesome.com/your-kit.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+<header>
+<nav>
+<div class="logo">SK</div>
+
+<ul class="nav-links">
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#education">Education</a></li>
+<li><a href="#teaching">Teaching</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+
+<div class="controls">
+<button id="theme-toggle">🌙</button>
+<select id="language-switch">
+<option value="en">EN</option>
+<option value="th">TH</option>
+</select>
+</div>
+</nav>
+</header>
+
+<section id="home" class="hero">
+
+<div class="hero-content">
+
+<img src="images/profile.jpg" class="profile-img">
+
+<h1>Santhoshkanth Kamaraj</h1>
+
+<h2>Lecturer | Researcher | ELT Specialist</h2>
+
+<p>
+Business English Program<br>
+Faculty of Liberal Arts and Sciences<br>
+Roi Et Rajabhat University
+</p>
+
+<div class="hero-buttons">
+<a href="#contact" class="btn">Contact Me</a>
+<a href="https://scholar.google.com/citations?user=6LiLuIcAAAAJ&hl=en" target="_blank" class="btn secondary">
+Google Scholar
+</a>
+</div>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+Santhoshkanth Kamaraj is an academic lecturer and researcher in the field of English Language Teaching (ELT). He currently serves as a lecturer in the Business English Program within the Faculty of Liberal Arts and Sciences at Roi Et Rajabhat University, Thailand.
+</p>
+
+<p>
+His academic journey began with a Bachelor’s degree in Computer Science Engineering from Annamalai University before transitioning into language education through a Diploma in Teacher Education from Philippine Christian University and a Master of Arts in English Language Teaching from Roi Et Rajabhat University.
+</p>
+
+<h3>Research Interests</h3>
+
+<ul>
+<li>Vocabulary Acquisition</li>
+<li>Speaking Skill Development</li>
+<li>Technology Enhanced Language Learning</li>
+<li>AI-Assisted Language Teaching</li>
+</ul>
+
+</section>
+
+<section id="education">
+
+<h2>Education</h2>
+
+<div class="card">
+<h3>Bachelor of Engineering</h3>
+<p>Computer Science Engineering</p>
+<p>Annamalai University</p>
+<p>2012</p>
+</div>
+
+<div class="card">
+<h3>Diploma in Teacher Education</h3>
+<p>Philippine Christian University</p>
+<p>2019</p>
+</div>
+
+<div class="card">
+<h3>Master of Arts</h3>
+<p>English Language Teaching</p>
+<p>Roi Et Rajabhat University</p>
+<p>2026</p>
+</div>
+
+</section>
+
+<section id="teaching">
+
+<h2>Teaching</h2>
+
+<div class="card-grid">
+
+<div class="card">
+English for Academics
+</div>
+
+<div class="card">
+Business English Listening & Speaking I
+</div>
+
+<div class="card">
+Business English Listening & Speaking II
+</div>
+
+<div class="card">
+Business English for Tourism and Travel
+</div>
+
+</div>
+
+</section>
+
+<section id="publications">
+
+<h2>Publications & Profiles</h2>
+
+<div class="links">
+
+<a href="https://scholar.google.com/citations?user=6LiLuIcAAAAJ&hl=en" target="_blank">
+Google Scholar
+</a>
+
+<a href="https://www.researchgate.net/profile/Santhoshkanth-Kamaraj" target="_blank">
+ResearchGate
+</a>
+
+<a href="https://orcid.org/0009-0004-0157-9242" target="_blank">
+ORCID
+</a>
+
+</div>
+
+<div id="citation-counter">
+Google Scholar Citation Counter
+</div>
+
+</section>
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/gallery1.jpg">
+<img src="images/gallery2.jpg">
+<img src="images/gallery3.jpg">
+<img src="images/gallery4.jpg">
+<img src="images/gallery5.jpg">
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: santhoshkanth88@reru.ac.th</p>
+
+<p>
+Roi Et Rajabhat University<br>
+113 Moo 12, Kor Keaw, Selaphum<br>
+Roi Et 45120, Thailand
+</p>
+
+<div class="socials">
+
+<a href="https://github.com/DarkdevilTH89/Santhoshkanth.io">GitHub</a>
+
+<a href="https://scholar.google.com/citations?user=6LiLuIcAAAAJ&hl=en">
+Google Scholar
+</a>
+
+<a href="https://www.researchgate.net/profile/Santhoshkanth-Kamaraj">
+ResearchGate
+</a>
+
+<a href="https://orcid.org/0009-0004-0157-9242">
+ORCID
+</a>
+
+</div>
+
+</section>
+
+<footer>
+© 2026 Santhoshkanth Kamaraj
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
